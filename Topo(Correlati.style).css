@@ -1,0 +1,31 @@
+body{
+
+	/*background: rgb(235, 235, 235);*/
+	
+	font-family: "Ms serif"; 
+		
+		font-style: italic;
+
+
+	margin-top: 20px;
+		
+		margin-bottom: 10px;
+		
+		margin-right: 300px;
+		
+		margin-left: 300px;
+
+	text-align: center;
+
+	background-image: url(https://www.basickx.nl/wp-content/uploads/2015/05/background-masthead.png);
+
+}
+
+h1{
+
+	text-transform: uppercase;
+
+	color: black;
+
+	border: 4px dashed black;
+}
